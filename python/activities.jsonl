@@ -1,0 +1,5 @@
+{"STUDENT_ID": "FredID", "RECORD_ID": "gobbledeegook1", "NODE_NAME": "Node1", "ACTIVITY_NAME": "MyActivity1", "ACTIVITY_GRADE": "PreK, Kindergarten"}
+{"STUDENT_ID": "FredID", "RECORD_ID": "gobbledeegook2", "NODE_NAME": "Node1", "ACTIVITY_NAME": "MyActivity1", "ACTIVITY_GRADE": "Kindergarten"}
+{"STUDENT_ID": "FredID", "RECORD_ID": "gobbledeegook3", "NODE_NAME": "Node2", "ACTIVITY_NAME": "MyActivity2", "ACTIVITY_GRADE": "1st Grade"}
+{"STUDENT_ID": "JaniceID", "RECORD_ID": "gobbledeegook4", "NODE_NAME": "Node3", "ACTIVITY_NAME": "MyActivity3", "ACTIVITY_GRADE": "Kindergarten"}
+{"STUDENT_ID": "JaniceID", "RECORD_ID": "gobbledeegook5", "NODE_NAME": "Node3", "ACTIVITY_NAME": "MyActivity3", "ACTIVITY_GRADE": "1st Grade"}
